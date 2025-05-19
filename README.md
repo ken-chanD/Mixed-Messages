@@ -2,9 +2,9 @@
 
 ### Description
 
-This is my first portfolio project on Codecademy.  
-The goal is to build a **random message generator**: every time you run the program, you get a different result.  
-In this case, the program randomly selects a **name** and combines it with a **fixed message** to produce a fun or surprising output.
+> This is my first portfolio project on Codecademy.  
+> The goal is to build a **random message generator**: every time you run the program, you get a different result.  
+> In this case, the program randomly selects a **name** and combines it with a **fixed message** to produce a fun or surprising output.
 
 ---
 
@@ -21,11 +21,11 @@ In this case, the program randomly selects a **name** and combines it with a **f
 
 ## 📺 Demo
 
-You can run the project locally using Node.js (see [Usage](#usage) section).
+> You can run the project locally using Node.js (see [Usage](#usage) section).
 
-Example output:
-💬 The chosen one is: Yonito
-➡️ Message: Your name in another life will be: Yonito!
+> Example output:
+> 💬 The chosen one is: Yonito
+> ➡️ Message: Your name in another life will be: Yonito!
 
 ---
 
@@ -42,35 +42,35 @@ This project was built with:
 
 ## 🛠️ Installation
 
-To run the project locally:
+> To run the project locally:
 
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/mixed-messages.git
+> ```bash
+> # Clone the repo
+> git clone https://github.com/yourusername/mixed-messages.git
 
 # Move into the folder
-cd mixed-messages
+> cd mixed-messages
 
 # Run the script
-node index.js
+> node index.js
 
 ▶️ Usage
-Make sure you have Node.js installed
+> Make sure you have Node.js installed
 
-Navigate to the project folder
+> avigate to the project folder
 
-Run the script with node index.js
+> Run the script with node index.js
 
-A new random message will be printed to the console each time
+> A new random message will be printed to the console each time
 
 📁 Project Structure
-mixed-messages/
-│
-├── index.js          # Main script file
-├── README.md         # Project documentation
-└── package.json      # Optional, if using npm
+> mixed-messages/
+> │
+> ├── index.js          # Main script file
+> ├── README.md         # Project documentation
+> └── package.json      # Optional, if using npm
 
 👤 Author
-GitHub: @ken-chanD
+> GitHub: @ken-chanD
 
-Project created as part of the Full-Stack Engineer Path on Codecademy.
+> Project created as part of the Full-Stack Engineer Path on Codecademy.

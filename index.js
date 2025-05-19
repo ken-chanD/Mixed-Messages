@@ -10,6 +10,6 @@ const randomName = () => {
 
 // My idea is to output a sentence that says: Your name in the next life will be.
 const funSentence = () => {
-  return `Your name in another life will be: ${randomName()}`;
+  return `Your name in another life will be: ${randomName()}!`;
 };
 console.log(funSentence());
